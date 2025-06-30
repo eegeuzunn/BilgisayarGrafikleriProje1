@@ -2,6 +2,8 @@
 
 Bu proje, C++ ve OpenGL kullanılarak oluşturulmuş basit bir 3D sahnedir. Sahnede 2 ağaç, aralarına asılmış bir hamak ve yanında ayakta duran bir insan modeli bulunmaktadır. Amaç, temel 3D nesne oluşturma, modelleme, transformasyon ve ışıklandırma becerilerini öğrenmek ve uygulamaktır.
 
+Proje Raporu: [Google Docs](https://docs.google.com/document/d/1RJ8oOt9OlnrV_syVad-N7BWuz7KntsiOg-ex8IRrMpA/edit?usp=sharing)
+
 ---
 
 ## 🎮 Özellikler
